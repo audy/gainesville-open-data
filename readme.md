@@ -15,3 +15,7 @@ Retrieved: 2011-(Mon Jan 26 14:41:57 EST 2015)
 #### Fire-Rescue-EMS-Responses
 
 Retrieved: Thu Apr 23 11:59:06 EDT 2015
+
+# LICENSE
+
+See: LICENSE.md
